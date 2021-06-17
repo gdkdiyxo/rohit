@@ -1,4 +1,3 @@
-
 // - Global variables -
 const DEFAULT_ROTATION = { x: 0, y: 0, z: 0 };
 var camera, scene, renderer, renderPass, composer;
