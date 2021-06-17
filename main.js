@@ -555,11 +555,11 @@ function createFlag() {
 	scene.add(pole);
 }
 
-function addMumbai() {
+function addJamshedpur() {
 	textLoader.load('fonts/Poppins/Poppins_Bold.json', function (font) {
 		var text = createText(
 			font,
-			"I      Mumbai",
+			"I      Jamshedpur",
 			{ x: -10, y: 0, z: -210 },
 			DEFAULT_ROTATION,
 			2, 0.5, 0.2,
@@ -601,7 +601,7 @@ function addBio() {
 	textLoader.load('fonts/Poppins/Poppins_Bold.json', function (font) {
 		var text = createText(
 			font,
-			"Hi, I am Kunal Bohra, 2O years young undergraduate student with a keen interest in ",
+			"Hi, I am Rohit Sinha, 16 years young high school student with a keen interest in ",
 			{ x: -7.5, y: 0, z: -210 },
 			DEFAULT_ROTATION,
 			0.5, 0.5, 0.01,
@@ -651,7 +651,7 @@ function addBio() {
 		scene.add(text);
 		var text = createText(
 			font,
-			"I am open for any JOB opportunities in the IT industry.",
+			"I am founder and CEO at TechMastering, a company that deals with Robotics, App and Web Development",
 			{ x: -7.5, y: 0, z: -207 },
 			DEFAULT_ROTATION,
 			0.5, 0.5, 0.01,
@@ -1875,28 +1875,28 @@ function addSignPosts() {
 
 function addKB() {
 	textLoader.load('fonts/Poppins/Poppins_Bold.json', function (font) {
-		var kunaText = createText(
+		var rohiText = createText(
 			font,
-			"KUNA",
+			"ROHI",
 			{ x: -9.5, y: 0, z: -10 },
 			DEFAULT_ROTATION,
 			1, 2, 0.6,
 			0xf69e7b
 		);
-		scene.add(kunaText);
+		scene.add(rohiText);
 		var pos = { x: -1.5, y: 0, z: -10 }
 		lText = createText(
 			font,
-			"L",
+			"T",
 			pos,
 			DEFAULT_ROTATION,
 			1, 2, 0.6,
 			0xf69e7b
 		);
 		scene.add(lText);
-		var bohraText = createText(
+		var sinhaText = createText(
 			font,
-			"BOHRA",
+			"SINHA",
 			{ x: 1.5, y: 0, z: -10 },
 			DEFAULT_ROTATION,
 			1, 2, 0.6,
