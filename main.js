@@ -19,15 +19,15 @@ var INTERSECTED, rotateButton, div;
 var ts;
 var RESOURCES_LOADED = false;
 
-var links = ['https://github.com/ItsTheKayBee/InstaNote',
-	'https://github.com/ItsTheKayBee/FundEasy',
-	'https://github.com/ItsTheKayBee/EssentialsKart',
-	'https://github.com/ItsTheKayBee/FacultyManagementSystem',
-	'https://github.com/ItsTheKayBee/Xervixx',
-	'https://www.github.com/ItsTheKayBee',
-	'https://linkedin.com/in/itsthekaybee',
-	'mailto:kunal.bohra@somaiya.edu',
-	'resume/kunal_resume.pdf'
+var links = ['https://github.com',
+	'https://github.com',
+	'https://github.com',
+	'https://github.com',
+	'https://github.com',
+	'https://www.github.com',
+	'https://www.linkedin.com/in/rohitjsr',
+	'mailto:mail.rohitsinha.in@gmail.com',
+	'resume/rohit_resume.pdf'
 ];
 
 //loading screen components
