@@ -1,4 +1,4 @@
-# KunalBohra
+# Rohit Sinha
 A 3D portfolio to showcase my skills. 
 
 ## Description 
